@@ -1,5 +1,0 @@
-com\srikanth\aws\repository\PersonRepository.class
-com\srikanth\aws\SpringbootDynamodbExampleApplication.class
-com\srikanth\aws\entity\Person.class
-com\srikanth\aws\config\DynamoDBConfig.class
-com\srikanth\aws\entity\Address.class
